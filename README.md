@@ -15,5 +15,3 @@ Synthetic-data prototype for prioritizing ED reassessments when observations are
 Physics learning tool that tests explanations with targeted simulations and checks the repair in a changed context. Language extraction interprets explanations; deterministic code validates physics and evidence.
 
 `TypeScript` · `Next.js` · `React` · [Repository and screenshots](https://github.com/nirvairsndhu/faultline-learning)
-
-![Faultline running a targeted vacuum-drop simulation](https://raw.githubusercontent.com/nirvairsndhu/faultline-learning/main/public/screenshots/featured-simulation.png)
