@@ -1,6 +1,6 @@
 # Nirvair Sandhu
 
-I build full-stack decision-support and learning software, including applied ML prototypes where uncertainty matters.
+I build full-stack support and learning software, including applied ML prototypes.
 
 ## Selected work
 
